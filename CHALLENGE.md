@@ -1,5 +1,3 @@
-# pawns
-
 **April Challenge: Game of Pawns**
 
 _Purpose_
