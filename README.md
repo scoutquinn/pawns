@@ -1,6 +1,7 @@
 # pawns
 
 **April Challenge: Game of Pawns**
+
 _Purpose_
 
 Generate a random chess position as an 8x8 grid or in FEN format. The position does not have to be realistic, but it must follow these rules:
@@ -14,7 +15,7 @@ Generate a random chess position as an 8x8 grid or in FEN format. The position d
 
 Your solution should be runnable by a Go script that takes the type of output as a flag.  E.g., 
 
-`./go.sh --grid // should produce the output as an 8x8 grid...
+`./go.sh --grid // should produce the output as an 8x8 grid...`
 ```
  .  .  .  Q  .  .  b  . 
  .  .  .  .  .  .  .  . 
@@ -25,7 +26,7 @@ Your solution should be runnable by a Go script that takes the type of output as
  .  n  .  .  .  .  .  . 
  .  .  .  N  .  .  .  . 
  ```
-`./go.sh --fen // should produce the output as a FEN record...
+`./go.sh --fen // should produce the output as a FEN record...`
 ```
 3Q2b1/8/R2b2r1/4q2K/4P3/1BkP4/1n6/3N4 w - - 0 1
 ```
